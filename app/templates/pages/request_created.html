@@ -1,0 +1,15 @@
+{% extends 'layouts/main.html' %}
+{% block title %}Email Confirmation{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <h1 class="text-center">Please Confirm your Email </h1>
+</div>
+
+        <p>Dear {{ data.name }}, <br> <br> Please go to your email ({{ data.email }}) and click on the provided link to confirm your email and complete the request process.</p>
+        <br>
+        <p>- UPRM's HTCondor Team</p>
+
+
+{% endblock %}
+
