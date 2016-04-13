@@ -1,7 +1,7 @@
 # Linux User Manager (LUM) 0.1
 
 ##Description: 
-Web app for managing linux accounts requests intended to be use on UPRM's HTCondor cluster. 
+Web app for managing linux accounts requests intended to be used on UPRM's HTCondor cluster. 
 
 
 ##Requirements: 
