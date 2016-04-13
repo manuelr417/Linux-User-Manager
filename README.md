@@ -1,5 +1,6 @@
 # Linux User Manager (LUM) 0.1
 
+
 ##Description: 
 Web app for managing linux accounts requests intended to be used on UPRM's HTCondor cluster. 
 
@@ -19,3 +20,6 @@ Web app for managing linux accounts requests intended to be used on UPRM's HTCon
 ##Developers
 * Maria Rivera
 * David Bartolomei
+* Dr. Manuel Rodríguez (Advisor) 
+
+A project developed at the **Advance Data Management Laboratory**, Research and Development Center, University of Puerto Rico at Mayagüez
