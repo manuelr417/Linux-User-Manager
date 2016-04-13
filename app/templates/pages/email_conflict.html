@@ -1,0 +1,13 @@
+{% extends 'layouts/main.html' %}
+{% block title %}Email Confirmation{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <h1 class="text-center">Email Already Used </h1>
+</div>
+    <p>The email: {{ data.email }} have already been use in another account request. <br> Please <a href="/reset/">Reset your password</a> or use another email.</p>
+    <br>
+    <p>- UPRM's HTCondor Team</p>
+
+{% endblock %}
+
