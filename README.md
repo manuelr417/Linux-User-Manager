@@ -22,4 +22,4 @@ Web app for managing linux accounts requests intended to be used on UPRM's HTCon
 * David Bartolomei
 * Dr. Manuel Rodríguez (Advisor) 
 
-A project developed at the **Advance Data Management Laboratory**, Research and Development Center, University of Puerto Rico at Mayagüez
+A project developed at: <br> **Advance Data Management Laboratory** <br> Research and Development Center <br> University of Puerto Rico at Mayagüez
